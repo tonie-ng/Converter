@@ -1,2 +1,5 @@
 .env
 venv
+
+manifests/secret.yaml
+manifests/configmap.yaml
